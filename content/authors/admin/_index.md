@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Adarsh Hiremath
+title: 
 
 # Name pronunciation (optional)
-name_pronunciation: Adarsh Hiremath
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Adarsh
@@ -39,7 +39,7 @@ education:
     - course: Msc in Computer Science
       institution: Arizona State Univeristy
       year: 2024
-    - course: BEng in Information Science and Engineering
+    - course: BEng in Information Science
       institution: Visvesvaraya Technological University(VTU)
       year: 2022
 
@@ -117,5 +117,6 @@ social:
 highlight_name: true
 ---
 
-I am a driven computer science professional currently pursuing my Master's degree at Arizona State University. With a strong background in machine learning, deep learning, and robotics. As a Graduate Research Assistant, I develop cutting-edge algorithms for task segmentation and knowledge transfer in complex robotics environments. Previously, I gained valuable experience through internships at the Indian Institute of Science and as a freelance full-stack developer. My academic projects span areas like automated file processing, digital accessibility solutions, autonomous vehicle safety, and symbolic deep reinforcement learning. Beyond academics, I actively contribute to the community through roles like a Trained Meditation Facilitator and by founding the tech organization CodingCrib. With a passion for technology and commitment to personal growth, I strive to make impactful contributions to the field.
+
+I'm a computer science professional at Arizona State University, pursuing a Master's degree. I specialize in machine learning, deep learning, and robotics, working on cutting-edge algorithms as a Graduate Research Assistant. My experience includes internships at the Indian Institute of Science and freelance work as a full-stack developer. I've worked on projects like automated file processing, digital accessibility, autonomous vehicle safety, and symbolic deep reinforcement learning. I'm also involved in the community as a Trained Meditation Facilitator and founder of CodingCrib, aiming to make meaningful contributions to technology.
 {style="text-align: justify;"}
