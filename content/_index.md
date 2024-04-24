@@ -62,27 +62,33 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Graduate Research Assistant
+          company: Logos Robotics Lab (ASU)
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: org-ASU
+          location: Tempe
+          date_start: '2023-10-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Developing an algorithmic framework for changepoint detection in complex, long-horizon tasks using statistical testing methods, facilitating precise task segmentation in high-dimensional robotics domains.
+              * Anticipating outcomes encompassing accurate task segmentation, streamlined knowledge transfer to reinforcement stages, and seamless integration of multi-task learning paradigms within robotic systems.
+
+        - title: Machine Learning Research Intern
+          company: Indian Institute of Science (IISc)
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: org-IISc
+          location: Bengaluru
+          date_start: '2022-05-01'
+          date_end: '2022-08-31'
+          description: |2- 
+              Responsibilities include:
+              
+              * Utilized auto-regressive models for real-world agricultural time-series forecasting achieving under 5% forecasting errors in price and arrival volume predictions.
+              * Enhanced model performance by implementing cutting-edge embedding techniques using PyTorch libraries resulting in a
+              reduction of the coefficient of variance from 19.67% to 17.2%.
+
     design:
       columns: '2'
   # - block: accomplishments
