@@ -50,47 +50,47 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
-  - block: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Graduate Research Assistant
-          company: Logos Robotics Lab (ASU)
-          company_url: ''
-          company_logo: org-ASU
-          location: Tempe
-          date_start: '2023-10-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
+  # - block: experience
+  #   content:
+  #     title: Experience
+  #     # Date format for experience
+  #     #   Refer to https://docs.hugoblox.com/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Experiences.
+  #     #   Add/remove as many `experience` items below as you like.
+  #     #   Required fields are `title`, `company`, and `date_start`.
+  #     #   Leave `date_end` empty if it's your current employer.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - title: Graduate Research Assistant
+  #         company: Logos Robotics Lab (ASU)
+  #         company_url: ''
+  #         company_logo: org-ASU
+  #         location: Tempe
+  #         date_start: '2023-10-01'
+  #         date_end: ''
+  #         description: |2-
+  #             Responsibilities include:
 
-              * Developing an algorithmic framework for changepoint detection in complex, long-horizon tasks using statistical testing methods, facilitating precise task segmentation in high-dimensional robotics domains.
-              * Anticipating outcomes encompassing accurate task segmentation, streamlined knowledge transfer to reinforcement stages, and seamless integration of multi-task learning paradigms within robotic systems.
+  #             * Developing an algorithmic framework for changepoint detection in complex, long-horizon tasks using statistical testing methods, facilitating precise task segmentation in high-dimensional robotics domains.
+  #             * Anticipating outcomes encompassing accurate task segmentation, streamlined knowledge transfer to reinforcement stages, and seamless integration of multi-task learning paradigms within robotic systems.
 
-        - title: Machine Learning Research Intern
-          company: Indian Institute of Science (IISc)
-          company_url: ''
-          company_logo: org-IISc
-          location: Bengaluru
-          date_start: '2022-05-01'
-          date_end: '2022-08-31'
-          description: |2- 
-              Responsibilities include:
+  #       - title: Machine Learning Research Intern
+  #         company: Indian Institute of Science (IISc)
+  #         company_url: ''
+  #         company_logo: org-IISc
+  #         location: Bengaluru
+  #         date_start: '2022-05-01'
+  #         date_end: '2022-08-31'
+  #         description: |2- 
+  #             Responsibilities include:
               
-              * Utilized auto-regressive models for real-world agricultural time-series forecasting achieving under 5% forecasting errors in price and arrival volume predictions.
-              * Enhanced model performance by implementing cutting-edge embedding techniques using PyTorch libraries resulting in a
-              reduction of the coefficient of variance from 19.67% to 17.2%.
+  #             * Utilized auto-regressive models for real-world agricultural time-series forecasting achieving under 5% forecasting errors in price and arrival volume predictions.
+  #             * Enhanced model performance by implementing cutting-edge embedding techniques using PyTorch libraries resulting in a
+  #             reduction of the coefficient of variance from 19.67% to 17.2%.
 
-    design:
-      columns: '2'
+  #   design:
+  #     columns: '2'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
