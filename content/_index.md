@@ -72,8 +72,10 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Developing an algorithmic framework for changepoint detection in complex, long-horizon tasks using statistical testing methods, facilitating precise task segmentation in high-dimensional robotics domains.
-              * Anticipating outcomes encompassing accurate task segmentation, streamlined knowledge transfer to reinforcement stages, and seamless integration of multi-task learning paradigms within robotic systems.
+        #      * Developing an algorithmic framework for changepoint detection in complex, long-horizon tasks using statistical 
+        #       testing methods, facilitating precise task segmentation in high-dimensional robotics domains.
+        #      * Anticipating outcomes encompassing accurate task segmentation, streamlined knowledge transfer to reinforcement 
+        #        stages, and seamless integration of multi-task learning paradigms within robotic systems.
 
         # - title: Machine Learning Research Intern
         #   company: Indian Institute of Science (IISc)
